@@ -1,0 +1,267 @@
+
+.menu{
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;	
+	color:#243270;
+	padding-left:10px;
+	padding-right:10px;
+	
+	
+}
+.menu a{	
+	color:#243270;
+	text-decoration:none;	
+}
+.menu a:hover{	
+	color: #e28b06;
+	text-decoration:none;	
+}
+.footer{
+	
+font-family:Arial;
+	font-size:13px;
+	font-weight:bold;	
+	color:#243270;}
+.footer a{
+	color:#243270;
+	text-decoration:none;
+}
+.copy{
+	color:#900;
+	font-weight:normal;
+	font-family:Arial;
+	font-size:12px;
+	text-align:left;
+}
+.text{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#2391bf;
+}
+
+.dataenroll
+{
+	font-family:Arial;
+	font-size:14px;
+	font-weight:normal;
+	color:#2391bf;
+}
+.welcome{
+	font-family:"Palatino Linotype";
+	font-size:20px;
+	font-weight:normal;
+	color:#e28b06;
+}
+.more{
+	color:#900;
+	font-weight:normal;
+	font-family:Arial;
+	font-size:11px;
+	text-align:right;
+	}
+
+.courses{
+	font-family:Arial;
+	font-weight:bold;
+	color:#2391bf;
+	font-size:11px;
+}
+.courses a{
+color:#2391bf;
+text-decoration:none;
+}
+.courses a:hover{
+color:#e28b06;
+text-decoration:none;
+}
+.courses_1{
+	font-family:Arial;
+	font-weight:normal;
+	color:#2391bf;
+	font-size:11px;
+}
+.courses_1 a{
+color:#2391bf;
+text-decoration:none;
+}
+.courses_1 a:hover{
+color:#e28b06;
+text-decoration:none;
+}
+.head {
+ font-family:Arial;
+	color:gray;
+	font-size:14px;
+}
+.head1 {
+ font-family:Arial;
+	color:gray;
+	font-size:13px;
+}
+.head2 {
+ font-family:Arial;
+	color:gray;
+	font-size:12px;
+}
+.wizardshed{
+	color:#d13a2f;
+	font-family: "Century Gothic";
+	font-size:14px;
+	font-weight:bold;
+}
+.Hiring{
+	font-family: "Copperplate Gothic Light";
+	font-weight:bold;
+	font-size:19px;
+	color:#b70f0f;
+	text-align:center;
+}
+	 
+
+.data8{
+	font-family:"Arial";
+	font-size:12px;
+	font-weight:bold;
+	color:#e28b06;
+}
+.data88{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#2391bf;
+}
+
+.lablelx
+{
+	font-family:"Arial";
+	font-size:14px;
+	font-weight:normal;
+	color:#06310B;
+}
+
+.lable
+{
+	font-family:"Arial";
+	font-size:12px;
+	font-weight:normal;
+	color:gray;
+}
+.lable1
+{
+	font-family:"Arial";
+	font-size:14px;
+	font-weight:normal;
+	color:black;
+    line-height:25px;
+}
+
+
+.menubox{
+background-image:url(images/menu_bg.jpg);
+background-repeat:repeat-x;
+width:230px;
+height:25px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+color:#ffffff;
+}
+.menubox_r{
+background-image:url(images/menu_bg.jpg);
+background-repeat:repeat-x;
+width:185px;
+height:25px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+font-weight:bold;
+color:#ffffff;
+}
+.menubox a{
+color:#ffffff;
+text-decoration:none;
+}
+.menugap{
+height:2px;
+}
+
+.upcoming{
+color:#b30909;
+}
+.hrmenu{
+font-size:12px;
+font-weight:bold;
+color:white;
+padding-left:06px;
+padding-right:06px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.hrmenu a{
+
+color:white;
+text-decoration:none;
+
+}
+.topmenu{
+font-size:11px;
+font-weight:bold;
+background-image:url(images/topmenu_bg.jpg);
+height:25px;
+color:white;
+padding-left:15px;
+padding-right:15px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+text-align:center;
+}
+.topmenu a{
+color:white;
+text-decoration:none;
+
+}
+.topmenugap{
+width:3px;
+}
+.imggap{
+height:3px;
+}
+.text{
+	color:#6a6564;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+	word-spacing:3px;
+}
+.text2{
+	color:#6a6564;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+	word-spacing:3px;
+	padding-right:5px;
+}
+.username{
+color:#6a6564;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:justify;
+}
+.wizards{
+color:#795614;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+}
+.scroling{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:13px;
+font-weight:bold;
+}
+.data7 {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #bc5441; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.data0 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #0f71c1; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.data {
+	FONT-SIZE: 11px; COLOR: #0f71c1; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}

@@ -1,0 +1,127 @@
+
+.menu{
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;	
+	color:#243270;
+	padding-left:10px;
+	padding-right:10px;
+	
+	
+}
+.menu a{	
+	color:#243270;
+	text-decoration:none;	
+}
+.menu a:hover{	
+	color: #e28b06;
+	text-decoration:none;	
+}
+.footer{
+	
+font-family:Arial;
+	font-size:11px;
+	font-weight:bold;	
+	color:#243270;}
+.footer a{
+	color:#243270;
+	text-decoration:none;
+}
+.copy{
+	color:#900;
+	font-weight:normal;
+	font-family:Arial;
+	font-size:10px;
+	text-align:left;
+}
+.text{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#2391bf;
+}
+
+.dataenroll
+{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#2391bf;
+}
+.welcome{
+	font-family:"Palatino Linotype";
+	font-size:20px;
+	font-weight:normal;
+	color:#e28b06;
+}
+.more{
+	color:#900;
+	font-weight:normal;
+	font-family:Arial;
+	font-size:11px;
+	text-align:right;
+	}
+
+.courses{
+	font-family:Arial;
+	font-weight:bold;
+	color:#2391bf;
+	font-size:11px;
+}
+.courses a{
+color:#2391bf;
+text-decoration:none;
+}
+.courses a:hover{
+color:#e28b06;
+text-decoration:none;
+}
+.courses_1{
+	font-family:Arial;
+	font-weight:normal;
+	color:#2391bf;
+	font-size:11px;
+}
+.courses_1 a{
+color:#2391bf;
+text-decoration:none;
+}
+.courses_1 a:hover{
+color:#e28b06;
+text-decoration:none;
+}
+.Indushed{
+	color:#d13a2f;
+	font-family: "Century Gothic";
+	font-size:14px;
+	font-weight:bold;
+}
+.Hiring{
+	font-family: "Copperplate Gothic Light";
+	font-weight:bold;
+	font-size:19px;
+	color:#b70f0f;
+	text-align:center;
+}
+	 
+
+.data8{
+	font-family:"Arial";
+	font-size:12px;
+	font-weight:bold;
+	color:#e28b06;
+}
+.data88{
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#2391bf;
+}
+
+.lablelx
+{
+	font-family:"Arial";
+	font-size:12px;
+	font-weight:normal;
+	color:#e28b06;
+}
